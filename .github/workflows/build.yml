@@ -36,3 +36,10 @@ jobs:
 
       - name: Build
         run: cargo build --verbose
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: application
+          path: ./target/debug/resourcepack-gen-cli
+
