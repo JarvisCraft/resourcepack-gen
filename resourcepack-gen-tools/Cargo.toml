@@ -13,10 +13,14 @@
 # limitations under the License.
 
 [package]
-name = "minecraft-resourcepack-patcher"
+name = "resourcepack-gen-tools"
 version = "0.1.0"
 authors = ["Petr Portnov <me@progrm-jarvis.ru>"]
 edition = "2018"
+license = "Apache-2.0"
+description = "Tools for generating Minecraft resourcepacks"
+repository = "https://github.com/JarvisCraft/resourcepack-gen"
+keywords = ["minecraft", "resourcepack"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

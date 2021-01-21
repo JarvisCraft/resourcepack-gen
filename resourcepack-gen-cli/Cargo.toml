@@ -3,6 +3,9 @@ name = "resourcepack-gen-cli"
 version = "0.1.0"
 authors = ["Petr Portnov <me@progrm-jarvis.ru>"]
 edition = "2018"
+description = "Command Line Interface for Minecraft resourcepack generation"
+repository = "https://github.com/JarvisCraft/resourcepack-gen"
+keywords = ["minecraft", "resourcepack", "tool", "cli"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
